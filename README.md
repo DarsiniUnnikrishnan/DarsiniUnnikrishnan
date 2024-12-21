@@ -1,9 +1,6 @@
 # 👋 Hey there, I’m Darsini Unnikrishnan! 
 
 🌟 Aspiring **Business Analyst** | 📊 Data Enthusiast | 🚀 Lover of all things data and insights
-
----
-
 ![Stressed Analyst GIF](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
 
 ---
