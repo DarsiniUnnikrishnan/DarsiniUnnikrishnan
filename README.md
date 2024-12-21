@@ -4,7 +4,7 @@
 
 ---
 
-![Data GIF](https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif)
+![Stressed Analyst GIF](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
 
 ---
 
