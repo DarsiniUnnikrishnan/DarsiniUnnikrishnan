@@ -11,7 +11,7 @@
 ✨ **A little about me**:
 - I’m passionate about finding patterns in data and making informed decisions.
 - Always curious, always learning! 🧠
-- When I'm not working, you’ll find me solving puzzles, exploring dashboards, or binge-watching Netflix. 🎬🍕  
+- When I'm not working, you’ll find me binge-watching Netflix. 🎬🍕  
 
 ---
 
