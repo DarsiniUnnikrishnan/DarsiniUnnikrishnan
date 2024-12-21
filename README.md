@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey there, I’m Darsini Unnikrishnan! 
 
-<!--
-**DarsiniUnnikrishnan/DarsiniUnnikrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Aspiring **Business Analyst** | 📊 Data Enthusiast | 🚀 Lover of all things data and insights
 
-Here are some ideas to get you started:
+---
+![Analytics GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+✨ **A little about me**:
+- I’m passionate about finding patterns in data and making informed decisions.
+- Always curious, always learning! 🧠
+- When I'm not working, you’ll find me solving puzzles, exploring dashboards, or binge-watching Netflix. 🎬🍕  
+
+---
+💬 **Fun Fact**: I believe Excel formulas and Tableau dashboards are modern-day magic spells! 🪄✨
+
+---
+### 🌐 Let’s Connect!
+- 🌟 [LinkedIn](https://linkedin.com/in/darsini-unnikrishnan)
+- 📧 Email: darsini.unnikrishnan@example.com
