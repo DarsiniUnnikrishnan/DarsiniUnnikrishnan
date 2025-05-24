@@ -18,4 +18,4 @@
 
 ### 🌐 Let’s Connect!
 - 🌟 [LinkedIn](https://linkedin.com/in/darsini-unnikrishnan)
-- 📧 Email: darsini.unnikrishnan@gmail.com
+- 📧 Email: darsiniu198@gmail.com
